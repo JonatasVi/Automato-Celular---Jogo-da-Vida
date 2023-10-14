@@ -1,0 +1,17 @@
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\bin\Debug\net6.0-windows\GameConway.exe
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\bin\Debug\net6.0-windows\GameConway.deps.json
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\bin\Debug\net6.0-windows\GameConway.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\bin\Debug\net6.0-windows\GameConway.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\bin\Debug\net6.0-windows\GameConway.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.MainForm.resources
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\refint\GameConway.dll
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.pdb
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\GameConway.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Studio 2022\Projects\GameConway\obj\Debug\net6.0-windows\ref\GameConway.dll
